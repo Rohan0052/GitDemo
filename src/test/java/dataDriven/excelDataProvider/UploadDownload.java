@@ -84,6 +84,12 @@ public class UploadDownload {
       // Assertion for price
       Assert.assertEquals(actualPrice, value);
       
+      System.out.println("Checking");
+      System.out.println("Checking");
+      System.out.println("Checking");
+      System.out.println("Checking");
+      System.out.println("Checking");
+      
       driver.close();
 
     }
